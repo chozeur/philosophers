@@ -18,3 +18,5 @@
 >starve, assuming that no philosopher can know when others may want to eat or think (an issue of incomplete information).
 
 *<p align=right><a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">Wikipedia</a></p>*
+
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An_illustration_of_the_dining_philosophers_problem.png/1024px-An_illustration_of_the_dining_philosophers_problem.png" width="420" height="420"/></p>
