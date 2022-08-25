@@ -1,4 +1,4 @@
-# philosophers
+# philosophers [![flcarval's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1lmiew3000609l599o75f45/project/2652684)](https://github.com/JaeSeoKim/badge42)
 
 -------------------------------------------------
 
