@@ -17,4 +17,4 @@
 >put down both forks. The problem is how to design a regimen (a concurrent algorithm) such that no philosopher will
 >starve, assuming that no philosopher can know when others may want to eat or think (an issue of incomplete information).
 
-*<p align=right>Wikipedia</p>*
+*<p align=right><a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">Wikipedia</a></p>*
